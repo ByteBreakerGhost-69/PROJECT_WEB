@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "blog": "博客",
+    "portfolio": "作品集",
+    "login": "登录",
+    "dashboard": "仪表盘",
+    "logout": "退出登录"
+  },
+  "hero": {
+    "headline": "开始有意义的事情",
+    "subtext": "一个温暖的创作空间，用来记录想法、处理任务，并看着它们逐渐成真。",
+    "taskPlaceholder": "新任务",
+    "columns": {
+      "todo": "待办",
+      "doing": "进行中",
+      "done": "已完成"
+    }
+  },
+  "portfolio": {
+    "title": "作品集",
+    "viewAll": "查看全部"
+  },
+  "blog": {
+    "title": "最新文章",
+    "viewAll": "查看全部",
+    "readArticle": "阅读文章",
+    "search": "搜索文章...",
+    "allCategories": "所有分类"
+  },
+  "contact": {
+    "title": "联系我们",
+    "open": "点击信封开始写信",
+    "name": "姓名",
+    "email": "邮箱",
+    "message": "留言",
+    "captcha": "5 + 3 等于几？",
+    "send": "发送消息",
+    "sent": "消息已发送，谢谢！"
+  },
+  "auth": {
+    "loginTitle": "登录 Karya",
+    "registerTitle": "创建 Karya 账户",
+    "email": "邮箱",
+    "password": "密码",
+    "name": "姓名",
+    "loginCta": "登录",
+    "registerCta": "注册",
+    "switchToRegister": "还没有账户？注册",
+    "switchToLogin": "已有账户？登录"
+  },
+  "dashboard": {
+    "welcome": "欢迎回来",
+    "readingProgress": "博客阅读进度",
+    "savedTasks": "已保存的任务"
+  },
+  "mascot": {
+    "facts": [
+      "每25分钟休息5分钟，专注力更持久。",
+      "先写下一个小任务，能让大脑更快进入状态。",
+      "持续的小进步胜过偶尔的大爆发。",
+      "整洁的工作空间往往带来更平静的思绪。"
+    ]
+  }
+}

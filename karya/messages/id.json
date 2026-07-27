@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "portfolio": "Portofolio",
+    "login": "Masuk",
+    "dashboard": "Dashboard",
+    "logout": "Keluar"
+  },
+  "hero": {
+    "headline": "Mulai Sesuatu yang Berarti",
+    "subtext": "Ruang kerja kreatif yang hangat untuk menyimpan gagasan, mengerjakan tugas, dan melihatnya jadi nyata.",
+    "taskPlaceholder": "Tugas Baru",
+    "columns": {
+      "todo": "Belum",
+      "doing": "Proses",
+      "done": "Selesai"
+    }
+  },
+  "portfolio": {
+    "title": "Portofolio",
+    "viewAll": "Lihat Semua"
+  },
+  "blog": {
+    "title": "Tulisan Terbaru",
+    "viewAll": "Lihat Semua",
+    "readArticle": "Baca Artikel",
+    "search": "Cari artikel...",
+    "allCategories": "Semua Kategori"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "open": "Klik amplop untuk mulai menulis",
+    "name": "Nama",
+    "email": "Email",
+    "message": "Pesan",
+    "captcha": "Berapa 5 + 3?",
+    "send": "Kirim Pesan",
+    "sent": "Pesan terkirim. Terima kasih!"
+  },
+  "auth": {
+    "loginTitle": "Masuk ke Karya",
+    "registerTitle": "Buat Akun Karya",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "name": "Nama Lengkap",
+    "loginCta": "Masuk",
+    "registerCta": "Daftar",
+    "switchToRegister": "Belum punya akun? Daftar",
+    "switchToLogin": "Sudah punya akun? Masuk"
+  },
+  "dashboard": {
+    "welcome": "Selamat datang kembali",
+    "readingProgress": "Progress Membaca Blog",
+    "savedTasks": "Task Tersimpan"
+  },
+  "mascot": {
+    "facts": [
+      "Istirahat 5 menit tiap 25 menit bikin fokus lebih tahan lama.",
+      "Menulis tugas kecil dulu bikin otak lebih siap buat yang besar.",
+      "Progres kecil yang konsisten mengalahkan usaha besar yang jarang.",
+      "Ruang kerja yang rapi bikin pikiran ikut lebih tenang."
+    ]
+  }
+}

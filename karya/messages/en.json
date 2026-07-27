@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "blog": "Blog",
+    "portfolio": "Portfolio",
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "logout": "Log out"
+  },
+  "hero": {
+    "headline": "Start Something Meaningful",
+    "subtext": "A warm creative workspace to keep ideas, work on tasks, and watch them come to life.",
+    "taskPlaceholder": "New Task",
+    "columns": {
+      "todo": "To Do",
+      "doing": "In Progress",
+      "done": "Done"
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "viewAll": "View All"
+  },
+  "blog": {
+    "title": "Latest Writing",
+    "viewAll": "View All",
+    "readArticle": "Read Article",
+    "search": "Search articles...",
+    "allCategories": "All Categories"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "open": "Click the envelope to start writing",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "captcha": "What is 5 + 3?",
+    "send": "Send Message",
+    "sent": "Message sent. Thank you!"
+  },
+  "auth": {
+    "loginTitle": "Log in to Karya",
+    "registerTitle": "Create a Karya account",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "loginCta": "Log in",
+    "registerCta": "Register",
+    "switchToRegister": "No account yet? Register",
+    "switchToLogin": "Already have an account? Log in"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "readingProgress": "Blog Reading Progress",
+    "savedTasks": "Saved Tasks"
+  },
+  "mascot": {
+    "facts": [
+      "A 5-minute break every 25 minutes keeps focus sharper for longer.",
+      "Writing down a small task first warms your brain up for bigger ones.",
+      "Small consistent progress beats rare bursts of big effort.",
+      "A tidy workspace tends to bring a tidier mind."
+    ]
+  }
+}
